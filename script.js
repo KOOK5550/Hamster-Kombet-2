@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let selectedGame = null;
 
     sourceCode.addEventListener('click', () => {
-        window.open('https://github.com/ShafiqSadat/HamsterKeyGenWeb', '_blank');
+        window.open('https://www.facebook.com/faheemakhtar001?mibextid=LQQJ4d', '_blank');
     });
     
 gameOptions.forEach(option => {
